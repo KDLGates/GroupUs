@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils import timezone
+# some generic somment
 
 # Test
 class Post(models.Model):
